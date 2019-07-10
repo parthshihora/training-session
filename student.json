@@ -1,0 +1,6 @@
+{
+    "first_name" : "John",
+    "last_name" : "Doe",
+    "DOB" : "03-23-2001",
+    "courses" : ["CS 101", "CS 202", "CS 303"]
+}

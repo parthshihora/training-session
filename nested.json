@@ -1,0 +1,27 @@
+{
+    "Results": [
+            {"Id": "001",
+            "Name": "Bob",
+            "Items": {
+                "Cars": "1",
+                "Books": "3",
+                "Phones": "1"}
+            },
+
+            {"Id": "002",
+            "Name": "Tom",
+            "Items": {
+                "Cars": "1",
+                "Books": "3",
+                "Phones": "1"}
+            },
+
+            {"Id": "003",
+            "Name": "Sally",
+            "Items": {
+                "Cars": "1",
+                "Books": "3",
+                "Phones": "1"}
+            }
+    ]
+}
